@@ -12,14 +12,6 @@ With the ability to understand customer segments, Selore Retails can enhance cus
 
 <hr>
 
-![My Image](aasets/img2.png)
-
-<hr>
-
-![My Image](aasets/img3.png)
-
-<hr>
-
 <br>
 
 <br>
